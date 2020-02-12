@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8dd6991-4ff4-4484-b23d-0005ae67dae3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XgrFfwrOtMAZjYPCdzLqohqSr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Include" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hit19\PycharmProjects\untitled\venv\Include" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="keylo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/keylo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.keylo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8dd6991-4ff4-4484-b23d-0005ae67dae3" name="Default Changelist" comment="" />
+      <created>1581478479104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581478479104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="62" key="#Servers" timestamp="1581490685388">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="275" y="62" key="#Servers/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581490685388" />
+    <state x="275" y="62" key="#Vim_Emulation" timestamp="1581480402271">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="275" y="62" key="#Vim_Emulation/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581480402271" />
+    <state x="137" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581484438343">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="137" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581484438343" />
+    <state x="417" y="166" key="EnvironmentVariablesDialog" timestamp="1581484391235">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="417" y="166" key="EnvironmentVariablesDialog/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581484391235" />
+    <state x="553" y="297" key="Github.ShareDialog" timestamp="1581491289925">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="553" y="297" key="Github.ShareDialog/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581491289925" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1581491344616">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581491344616" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1581491344616">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581491344616" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1581491344615">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581491344615" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1581491344616">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581491344616" />
+    <state x="184" y="46" key="SettingsEditor" timestamp="1581484182752">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="184" y="46" key="SettingsEditor/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581484182752" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581487063848">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581487063848" />
+    <state x="384" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1581478532132">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="384" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581478532132" />
+    <state x="463" y="209" key="save.file.as.template.dialog" timestamp="1581486247778">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="209" key="save.file.as.template.dialog/0.40.1366.728/1366.0.1366.728@0.40.1366.728" timestamp="1581486247778" />
+  </component>
+</project>
